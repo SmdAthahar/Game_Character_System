@@ -1,2 +1,22 @@
-# Game_Character_System
-A simple Python Game Character System demonstrating Object-Oriented Programming (OOP) and inheritance. Includes a parent `GameCharacter` class and three child classes: `Warrior`, `Archer`, and `Wizard`, each with unique attack methods and health management. Demonstrates character interactions through a simple combat system.
+# Game Character System 🎮
+
+A simple Python project demonstrating **Object-Oriented Programming (OOP)** and **inheritance**.
+
+## Features
+- `GameCharacter` parent class with name, health, and level.
+- `Warrior`, `Archer`, and `Wizard` subclasses.
+- Unique attack methods for each character.
+- Health updates during combat.
+
+## Technologies
+- Python
+- Object-Oriented Programming (OOP)
+
+## Run the Project
+
+```bash
+python main.py
+```
+
+## Author
+Smd Athahar
